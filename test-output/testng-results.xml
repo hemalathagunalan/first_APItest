@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2013" started-at="2018-09-21T14:21:58Z" finished-at="2018-09-21T14:22:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2013" started-at="2018-09-21T14:21:58Z" finished-at="2018-09-21T14:22:00Z">
+      <class name="testing.API.Automation.Test_One">
+        <test-method status="PASS" signature="invalid_check()[pri:0, instance:testing.API.Automation.Test_One@2a5ca609]" name="invalid_check" duration-ms="1525" started-at="2018-09-21T19:51:58Z" finished-at="2018-09-21T19:52:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalid_check -->
+        <test-method status="PASS" signature="test_api()[pri:0, instance:testing.API.Automation.Test_One@2a5ca609]" name="test_api" duration-ms="471" started-at="2018-09-21T19:52:00Z" finished-at="2018-09-21T19:52:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_api -->
+      </class> <!-- testing.API.Automation.Test_One -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
